@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nama-fl/static/css/main.902a7a62.css",
+    "main.js": "/nama-fl/static/js/main.48271e9e.js",
+    "static/js/453.2139b7b9.chunk.js": "/nama-fl/static/js/453.2139b7b9.chunk.js",
+    "static/media/logo.svg": "/nama-fl/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nama-fl/index.html",
+    "main.902a7a62.css.map": "/nama-fl/static/css/main.902a7a62.css.map",
+    "main.48271e9e.js.map": "/nama-fl/static/js/main.48271e9e.js.map",
+    "453.2139b7b9.chunk.js.map": "/nama-fl/static/js/453.2139b7b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.902a7a62.css",
+    "static/js/main.48271e9e.js"
+  ]
+}
