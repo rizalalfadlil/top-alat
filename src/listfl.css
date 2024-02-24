@@ -1,0 +1,25 @@
+.flbox{
+    
+    background-color: #d2d1f8;
+    color: #8483d3;
+    transition: 2ms ;
+}
+.flbox:hover{
+    background-color: #9f9dd8;
+    color: #e0dfff;
+}
+.bekgron{
+    font-family: "Teko", sans-serif;
+    background-color: #ececec;
+    width: 100%;
+}
+.search{
+    color: #8483d3;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: none;
+}
+.search::placeholder{
+    color: #8483d3;
+}
